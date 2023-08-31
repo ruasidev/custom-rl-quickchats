@@ -1,4 +1,4 @@
-# custom-rl-quickchats
+# Custom Rocket League Quickchats
 Custom Rocket League Quickchats </br>
 Install required libraries by opening a terminal in the directory and typing "pip install -r requirements.txt"</br>
 *This requires python!*
